@@ -1,0 +1,520 @@
+﻿id,province,district,gi2007,gi2008,gi2009,gi2010,gi2011,gi2012,gi2013,gi2014,gi2015,gi2016,gi2017,gi2018,gi2019,gi2020,gi2021,gi2022,gi2023
+1,Aceh,Aceh Barat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Aceh,Aceh Barat Daya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Aceh,Aceh Besar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Aceh,Aceh Jaya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Aceh,Aceh Selatan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Aceh,Aceh Singkil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Aceh,Aceh Tamiang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Aceh,Aceh Tengah,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+9,Aceh,Aceh Tenggara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Aceh,Aceh Timur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Aceh,Aceh Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,Sumatera Barat,Agam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,Nusa Tenggara Timur ,Alor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,Sumatera Utara,Asahan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,Papua,Asmat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,Bali,Badung,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+17,Kalimantan Selatan,Balangan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Jawa Barat,Bandung,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+19,Jawa Barat,Bandung Barat,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+20,Sulawesi Tengah ,Banggai,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,Sulawesi Tengah ,Banggai Kepulauan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,Sulawesi Tengah ,Banggai Laut,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,Kep. Bangka Belitung,Bangka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,Kep. Bangka Belitung,Bangka Barat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Kep. Bangka Belitung,Bangka Selatan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,Kep. Bangka Belitung,Bangka Tengah,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,Jawa Timur ,Bangkalan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Bali,Bangli,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+29,Kalimantan Selatan,Banjar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Jawa Tengah,Banjarnegara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,Sulawesi Selatan ,Bantaeng,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,DI Yogyakarta ,Bantul,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Sumatera Selatan ,Banyuasin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Jawa Tengah,Banyumas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Jawa Timur ,Banyuwangi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Kalimantan Selatan,Barito Kuala,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Kalimantan Tengah,Barito Selatan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Kalimantan Tengah,Barito Timur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,Kalimantan Tengah,Barito Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,Sulawesi Selatan ,Barru,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,Jawa Tengah,Batang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,Jambi,Batang Hari,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Sumatera Utara,Batu Bara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Jawa Barat,Bekasi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Kep. Bangka Belitung,Belitung,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,Kep. Bangka Belitung,Belitung Timur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,Nusa Tenggara Timur ,Belu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,Aceh,Bener Meriah,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+49,Riau,Bengkalis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,Kalimantan Barat,Bengkayang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,Bengkulu,Bengkulu Selatan ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,Bengkulu,Bengkulu Tengah,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,Bengkulu,Bengkulu Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,Kalimantan Timur ,Berau,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,Papua,Biak Numfor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,Nusa Tenggara Barat,Bima,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1
+57,Kep. Riau,Bintan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,Aceh,Bireuen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,Jawa Timur ,Blitar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,Jawa Tengah,Blora,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,Gorontalo,Boalemo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,Jawa Barat,Bogor,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+63,Jawa Timur ,Bojonegoro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,Sulawesi Utara ,Bolaang Mongondow,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,Sulawesi Utara ,Bolaang Mongondow Selatan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,Sulawesi Utara ,Bolaang Mongondow Timur ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,Sulawesi Utara ,Bolaang Mongondow Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,Sulawesi Tenggara,Bombana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,Jawa Timur ,Bondowoso,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+70,Sulawesi Selatan ,Bone,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71,Gorontalo,Bone Bolango,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1
+72,Kalimantan Timur ,Bontang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+73,Papua,Boven Digoel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,Jawa Tengah,Boyolali,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+75,Jawa Tengah,Brebes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+76,Bali,Buleleng,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+77,Sulawesi Selatan ,Bulukumba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,Kalimantan Utara,Bulungan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+79,Jambi,Bungo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+80,Sulawesi Tengah ,Buol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,Maluku,Buru,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,Maluku,Buru Selatan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,Sulawesi Tenggara,Buton,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+84,Sulawesi Tenggara,Buton Selatan ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,Sulawesi Tenggara,Buton Tengah ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+86,Sulawesi Tenggara,Buton Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+87,Jawa Barat,Ciamis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+88,Jawa Barat,Cianjur,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+89,Jawa Tengah,Cilacap,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90,Jawa Barat,Cirebon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+91,Sumatera Utara,Dairi,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+92,Papua,Deiyai,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+93,Sumatera Utara,Deli Serdang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+94,Jawa Tengah,Demak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+95,Sumatera Barat,Dharmasraya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+96,Papua,Dogiyai,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+97,Nusa Tenggara Barat,Dompu,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1
+98,Sulawesi Tengah ,Donggala,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+99,Sumatera Selatan ,Empat Lawang,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1
+100,Nusa Tenggara Timur ,Ende,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,Sulawesi Selatan ,Enrekang,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+102,Papua Barat ,Fakfak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+103,Nusa Tenggara Timur ,Flores Timur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104,Jawa Barat,Garut,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+105,Aceh,Gayo Lues,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+106,Bali,Gianyar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+107,Gorontalo,Gorontalo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+108,Gorontalo,Gorontalo Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,Sulawesi Selatan ,Gowa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+110,Jawa Timur ,Gresik,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+111,Jawa Tengah,Grobogan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+112,DI Yogyakarta ,Gunung Kidul,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+113,Kalimantan Tengah,Gunung Mas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+114,Maluku  Utara ,Halmahera Barat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+115,Maluku  Utara ,Halmahera Selatan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+116,Maluku  Utara ,Halmahera Tengah,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+117,Maluku  Utara ,Halmahera Timur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+118,Maluku  Utara ,Halmahera Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+119,Kalimantan Selatan,Hulu Sungai Selatan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+120,Kalimantan Selatan,Hulu Sungai Tengah,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+121,Kalimantan Selatan,Hulu Sungai Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+122,Sumatera Utara,Humbang Hasundutan,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1
+123,Riau,Indragiri Hilir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+124,Riau,Indragiri Hulu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+125,Jawa Barat,Indramayu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+126,Papua,Intan Jaya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,Papua,Jayapura,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+128,Papua,Jayawijaya,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+129,Jawa Timur ,Jember,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+130,Bali,Jembrana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+131,Sulawesi Selatan ,Jeneponto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+132,Jawa Tengah,Jepara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+133,Jawa Timur ,Jombang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,Papua Barat ,Kaimana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+135,Riau,Kampar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+136,Kalimantan Tengah,Kapuas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+137,Kalimantan Barat,Kapuas Hulu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+138,Bali,Karang Asem,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+139,Jawa Tengah,Karanganyar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+140,Jawa Barat,Karawang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+141,Kep. Riau,Karimun,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+142,Sumatera Utara,Karo,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+143,Kalimantan Tengah,Katingan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+144,Bengkulu,Kaur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+145,Kalimantan Barat,Kayong Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+146,Jawa Tengah,Kebumen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+147,Jawa Timur ,Kediri,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+148,Papua,Keerom,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+149,Jawa Tengah,Kendal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+150,Bengkulu,Kepahiang,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1
+151,Sumatera Barat,Kepualauan Mentawai,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+152,Kep. Riau,Kepulauan Anambas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+153,Maluku,Kepulauan Aru,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+154,Riau,Kepulauan Meranti,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1
+155,Sulawesi Utara ,Kepulauan Sangihe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+156,Sulawesi Selatan ,Kepulauan Selayar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+157,DKI Jakarta,Kepulauan Seribu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+158,Maluku  Utara ,Kepulauan Sula,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+159,Sulawesi Utara ,Kepulauan Talaud,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+160,Papua,Kepulauan Yapen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+161,Jambi,Kerinci,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1
+162,Kalimantan Barat,Ketapang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+163,Jawa Tengah,Klaten,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+164,Bali,Klungkung,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+165,Sulawesi Tenggara,Kolaka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+166,Sulawesi Tenggara,Kolaka Timur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+167,Sulawesi Tenggara,Kolaka Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+168,Sulawesi Tenggara,Konawe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+169,Sulawesi Tenggara,Konawe Kepulauan ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+170,Sulawesi Tenggara,Konawe Selatan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+171,Sulawesi Tenggara,Konawe Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+172,Maluku,Kota Ambon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+173,Kalimantan Timur ,Kota Balikpapan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+174,Aceh,Kota Banda Aceh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+175,Lampung,Kota Bandar Lampung,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+176,Jawa Barat,Kota Bandung,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+177,Jawa Barat,Kota Banjar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+178,Kalimantan Selatan,Kota Banjar Baru,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+179,Kalimantan Selatan,Kota Banjarmasin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+180,Kalimantan Selatan,Kota Baru,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+181,Kep. Riau,Kota Batam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,Jawa Timur ,Kota Batu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+183,Sulawesi Tenggara,Kota Baubau,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+184,Jawa Barat,Kota Bekasi ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+185,Bengkulu,Kota Bengkulu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+186,Nusa Tenggara Barat,Kota Bima,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+187,Sumatera Utara,Kota Binjai,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+188,Sulawesi Utara ,Kota Bitung,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+189,Jawa Timur ,Kota Blitar ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+190,Jawa Barat,Kota Bogor ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+191,Sumatera Barat,Kota Bukittinggi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+192,Banten,Kota Cilegon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193,Jawa Barat,Kota Cimahi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+194,Jawa Barat,Kota Cirebon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+195,Bali,Kota Denpasar ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+196,Jawa Barat,Kota Depok ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+197,Riau,Kota Dumai,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+198,Gorontalo,Kota Gorontalo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+199,Sumatera Utara,Kota Gunungsitoli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+200,DKI Jakarta,Kota Jakarta Barat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+201,DKI Jakarta,Kota Jakarta Pusat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,DKI Jakarta,Kota Jakarta Selatan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,DKI Jakarta,Kota Jakarta Timur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,DKI Jakarta,Kota Jakarta Utara ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+205,Jambi,Kota Jambi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+206,Papua,Kota Jayapura,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+207,Jawa Timur ,Kota Kediri ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+208,Sulawesi Tenggara,Kota Kendari,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,Sulawesi Utara ,Kota Kotamobagu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+210,Nusa Tenggara Timur ,Kota Kupang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,Aceh,Kota Langsa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,Aceh,Kota Lhokseumawe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+213,Sumatera Selatan ,Kota Lubuklinggau,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+214,Jawa Timur ,Kota Madiun ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,Jawa Tengah,Kota Mageleng ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,Sulawesi Selatan ,Kota Makassar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,Jawa Timur ,Kota Malang ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,Sulawesi Utara ,Kota Manado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+219,Nusa Tenggara Barat,Kota Mataram ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+220,Sumatera Utara,Kota Medan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+221,Lampung,Kota Metro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+222,Jawa Timur ,Kota Mojokerto ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+223,Sumatera Barat,Kota Padang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224,Sumatera Barat,Kota Padang Panjang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+225,Sumatera Utara,Kota Padangsidimpuan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+226,Sumatera Selatan ,Kota Pagar Alam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+227,Kalimantan Tengah,Kota Palangka Raya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+228,Sumatera Selatan ,Kota Palembang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+229,Sulawesi Selatan ,Kota Palopo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+230,Sulawesi Tengah ,Kota Palu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+231,Kep. Bangka Belitung,Kota Pangkal Pinang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+232,Sulawesi Selatan ,Kota Parepare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+233,Sumatera Barat,Kota Pariaman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+234,Jawa Timur ,Kota Pasuruan ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+235,Sumatera Barat,Kota Payakumbuh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+236,Jawa Tengah,Kota Pekalongan ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+237,Riau,Kota Pekanbaru,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+238,Sumatera Utara,Kota Pematang Siantar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+239,Kalimantan Barat,Kota Pontianak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+240,Sumatera Selatan ,Kota Prabumulih,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+241,Jawa Timur ,Kota Probolinggo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,Aceh,Kota Sabang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243,Jawa Tengah,Kota Salatiga ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+244,Kalimantan Timur ,Kota Samarinda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+245,Sumatera Barat,Kota Sawah Lunto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+246,Jawa Tengah,Kota Semarang ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+247,Banten,Kota Serang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+248,Sumatera Utara,Kota Sibolga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+249,Kalimantan Barat,Kota Singkawang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+250,Sumatera Barat,Kota Solok,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+251,Papua Barat ,Kota Sorong,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+252,Aceh,Kota Subulussalam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+253,Jawa Barat,Kota Sukabumi ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+254,Jambi,Kota Sungai Penuh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+255,Jawa Timur ,Kota Surabaya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+256,Jawa Tengah,Kota Surakarta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+257,Banten,Kota Tangerang ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+258,Banten,Kota Tangerang Selatan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+259,Sumatera Utara,Kota Tanjung Balai ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+260,Kep. Riau,Kota Tanjung Pinang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+261,Kalimantan Utara,Kota Tarakan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+262,Jawa Barat,Kota Tasikmalaya ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Sumatera Utara,Kota Tebing Tinggi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Jawa Tengah,Kota Tegal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Maluku  Utara ,Kota Ternate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Maluku  Utara ,Kota Tidore Kepulauan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,Sulawesi Utara ,Kota Tomohon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+268,Maluku,Kota Tual,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+269,DI Yogyakarta ,Kota Yogyakarta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+270,Kalimantan Tengah,Kotawaringin Barat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+271,Kalimantan Tengah,Kotawaringin Timur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272,Riau,Kuantan Singingi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+273,Kalimantan Barat,Kubu Raya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+274,Jawa Tengah,Kudus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,DI Yogyakarta ,Kulon Progo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Jawa Barat,Kuningan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Nusa Tenggara Timur ,Kupang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+278,Kalimantan Timur ,Kutai Barat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+279,Kalimantan Timur ,Kutai Kartanegara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Kalimantan Timur ,Kutai Timur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+281,Sumatera Utara,Labuhan Batu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,Sumatera Utara,Labuhan Batu Selatan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+283,Sumatera Utara,Labuhan Batu Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Sumatera Selatan ,Lahat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,Kalimantan Tengah,Lamandau,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+286,Jawa Timur ,Lamongan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+287,Lampung,Lampung Barat,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+288,Lampung,Lampung Selatan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+289,Lampung,Lampung Tengah,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Lampung,Lampung Timur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+291,Lampung,Lampung Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Kalimantan Barat,Landak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,Sumatera Utara,Langkat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Papua,Lanny Jaya,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+295,Banten,Lebak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+296,Bengkulu,Lebong,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+297,Nusa Tenggara Timur ,Lembata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,Sumatera Barat,Lima Puluh Kota,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+299,Kep. Riau,Lingga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+300,Nusa Tenggara Barat,Lombok Barat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+301,Nusa Tenggara Barat,Lombok Tengah,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+302,Nusa Tenggara Barat,Lombok Timur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+303,Nusa Tenggara Barat,Lombok Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+304,Jawa Timur ,Lumajang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,Sulawesi Selatan ,Luwu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+306,Sulawesi Selatan ,Luwu Timur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+307,Sulawesi Selatan ,Luwu Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+308,Jawa Timur ,Madiun,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+309,Jawa Tengah,Magelang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+310,Jawa Timur ,Magetan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+311,Kalimantan Timur ,Mahakam Ulu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+312,Jawa Barat,Majalengka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+313,Sulawesi Barat,Majene,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314,Nusa Tenggara Timur ,Malaka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+315,Jawa Timur ,Malang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+316,Kalimantan Utara,Malinau,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+317,Maluku,Maluku Barat Daya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+318,Maluku,Maluku Tengah,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+319,Maluku,Maluku Tenggara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,Maluku,Maluku Tenggara Barat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+321,Sulawesi Barat,Mamasa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+322,Papua,Mamberamo Raya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+323,Papua,Mamberamo Tengah,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+324,Sulawesi Barat,Mamuju,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+325,Sulawesi Barat,Mamuju Tengah,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+326,Sulawesi Barat,Mamuju Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+327,Sumatera Utara,Mandailing Natal,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1
+328,Nusa Tenggara Timur ,Manggarai,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1
+329,Nusa Tenggara Timur ,Manggarai Barat,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1
+330,Nusa Tenggara Timur ,Manggarai Timur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+331,Papua Barat ,Manokwari,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+332,Papua Barat ,Manokwari Selatan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+333,Papua,Mappi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+334,Sulawesi Selatan ,Maros,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+335,Papua Barat ,Maybrat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+336,Kalimantan Barat,Melawi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+337,Jambi,Merangin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+338,Papua,Merauke,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+339,Lampung,Mesuji,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+340,Papua,Mimika,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+341,Sulawesi Utara ,Minahasa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+342,Sulawesi Utara ,Minahasa Selatan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+343,Sulawesi Utara ,Minahasa Tenggara ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+344,Sulawesi Utara ,Minahasa Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+345,Jawa Timur ,Mojokerto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+346,Sulawesi Tengah ,Morowali,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+347,Sulawesi Tengah ,Morowali Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+348,Sumatera Selatan ,Muara Enim,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1
+349,Jambi,Muaro Jambi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+350,Bengkulu,Mukomuko,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,Sulawesi Tenggara,Muna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+352,Sulawesi Tenggara,Muna Barat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+353,Kalimantan Tengah,Murung Raya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Sumatera Selatan ,Musi Banyuasin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+355,Sumatera Selatan ,Musi Rawas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Sumatera Selatan ,Musi Rawas Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+357,Papua,Nabire,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+358,Aceh,Nagan Raya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+359,Nusa Tenggara Timur ,Nagekeo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+360,Kep. Riau,Natuna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+361,Papua,Nduga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+362,Nusa Tenggara Timur ,Ngada,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1
+363,Jawa Timur ,Nganjuk,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+364,Jawa Timur ,Ngawi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+365,Sumatera Utara,Nias,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+366,Sumatera Utara,Nias Barat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,Sumatera Utara,Nias Selatan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+368,Sumatera Utara,Nias Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,Kalimantan Utara,Nunukan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+370,Sumatera Selatan ,Ogan Ilir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+371,Sumatera Selatan ,Ogan Komering Ilir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+372,Sumatera Selatan ,Ogan Komering Ulu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Sumatera Selatan ,Ogan Komering Ulu Selatan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,Sumatera Selatan ,Ogan Komering Ulu Timur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+375,Jawa Timur ,Pacitan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,Sumatera Utara,Padang Lawas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+377,Sumatera Utara,Padang Lawas Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+378,Sumatera Barat,Padang Pariaman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+379,Sumatera Utara,Pakpak Bharat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,Jawa Timur ,Pamekasan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+381,Banten,Pandeglang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+382,Jawa Barat,Pangandaran,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+383,Sulawesi Selatan ,Pangkajene Dan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+384,Papua,Paniai,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,Sulawesi Tengah ,Parigi Moutong,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+386,Sumatera Barat,Pasaman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+387,Sumatera Barat,Pasaman Barat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+388,Kalimantan Timur ,Paser,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+389,Jawa Timur ,Pasuruan,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+390,Jawa Tengah,Pati,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+391,Papua Barat ,Pegunungan Arfak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+392,Papua,Pegunungan Bintang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,Jawa Tengah,Pekalongan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+394,Riau,Pelalawan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+395,Jawa Tengah,Pemalang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,Kalimantan Timur ,Penajam Paser Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+397,Sumatera Selatan ,Penukal Abab Lematang Ilir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+398,Lampung,Pesawaran,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+399,Lampung,Pesisir Barat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+400,Sumatera Barat,Pesisir Selatan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401,Aceh,Pidie,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+402,Aceh,Pidie Jaya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+403,Sulawesi Selatan ,Pinrang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+404,Gorontalo,Pohuwato,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+405,Sulawesi Barat,Polewali Mandar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+406,Jawa Timur ,Ponorogo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+407,Kalimantan Barat,Pontianak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+408,Sulawesi Tengah ,Poso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+409,Lampung,Pringsewu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+410,Jawa Timur ,Probolinggo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+411,Kalimantan Tengah,Pulang Pisau,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+412,Maluku  Utara ,Pulau Morotai,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,Maluku  Utara ,Pulau Taliabu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+414,Papua,Puncak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+415,Papua,Puncak Jaya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,Jawa Tengah,Purbalingga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+417,Jawa Barat,Purwakarta,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+418,Jawa Tengah,Purworejo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+419,Papua Barat ,Raja Ampat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+420,Bengkulu,Rejang Lebong,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+421,Jawa Tengah,Rembang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,Riau,Rokan Hilir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+423,Riau,Rokan Hulu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+424,Nusa Tenggara Timur ,Rote Ndao,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+425,Nusa Tenggara Timur ,Sabu Raijua,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+426,Kalimantan Barat,Sambas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+427,Sumatera Utara,Samosir,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1
+428,Jawa Timur ,Sampang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+429,Kalimantan Barat,Sanggau,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+430,Papua,Sarmi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+431,Jambi,Sarolangun,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+432,Kalimantan Barat,Sekadau,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+433,Bengkulu,Seluma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+434,Jawa Tengah,Semarang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,Maluku,Seram Bagian Barat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+436,Maluku,Seram Bagian Timur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+437,Banten,Serang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+438,Sumatera Utara,Serdang Bedagai,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+439,Kalimantan Tengah,Seruyan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+440,Riau,Siak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+441,Sulawesi Utara ,Siau Tagulandang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+442,Sulawesi Selatan ,Sidenreng Rappang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+443,Jawa Timur ,Sidoarjo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+444,Sulawesi Tengah ,Sigi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+445,Sumatera Barat,Sijunjung,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+446,Nusa Tenggara Timur ,Sikka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+447,Sumatera Utara,Simalungun,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1
+448,Aceh,Simeulue,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+449,Sulawesi Selatan ,Sinjai,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+450,Kalimantan Barat,Sintang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+451,Jawa Timur ,Situbondo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+452,DI Yogyakarta ,Sleman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+453,Sumatera Barat,Solok,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+454,Sumatera Barat,Solok Selatan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+455,Sulawesi Selatan ,Soppeng,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+456,Papua Barat ,Sorong,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+457,Papua Barat ,Sorong Selatan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+458,Jawa Tengah,Sragen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+459,Jawa Barat,Subang,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+460,Jawa Barat,Sukabumi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+461,Kalimantan Tengah,Sukamara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+462,Jawa Tengah,Sukoharjo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+463,Nusa Tenggara Timur ,Sumba Barat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+464,Nusa Tenggara Timur ,Sumba Barat Daya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+465,Nusa Tenggara Timur ,Sumba Tengah,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+466,Nusa Tenggara Timur ,Sumba Timur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+467,Nusa Tenggara Barat,Sumbawa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+468,Nusa Tenggara Barat,Sumbawa Barat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+469,Jawa Barat,Sumedang,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+470,Jawa Timur ,Sumenep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+471,Papua,Supiori,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+472,Kalimantan Selatan,Tabalong,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+473,Bali,Tabanan,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1
+474,Sulawesi Selatan ,Takalar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+475,Papua Barat ,Tambrauw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+476,Kalimantan Utara,Tana Tidung,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+477,Sulawesi Selatan ,Tana Toraja,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+478,Kalimantan Selatan,Tanah Bumbu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+479,Sumatera Barat,Tanah Datar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+480,Kalimantan Selatan,Tanah Laut,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+481,Banten,Tangerang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+482,Lampung,Tanggamus,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+483,Jambi,Tanjung Jabung Barat,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1
+484,Jambi,Tanjung Jabung Timur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+485,Sumatera Utara,Tapanuli Selatan,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1
+486,Sumatera Utara,Tapanuli Tengah,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+487,Sumatera Utara,Tapanuli Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+488,Kalimantan Selatan,Tapin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+489,Jawa Barat,Tasikmalaya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+490,Jambi,Tebo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+491,Jawa Tengah,Tegal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+492,Papua Barat ,Teluk Bintuni,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+493,Papua Barat ,Teluk Wondama,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+494,Jawa Tengah,Temanggung,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+495,Nusa Tenggara Timur ,Timor Tengah Selatan ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+496,Nusa Tenggara Timur ,Timor Tengah Utara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+497,Sumatera Utara,Toba Samosir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+498,Sulawesi Tengah ,Tojo Una-Una,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+499,Papua,Tolikara,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+500,Sulawesi Tengah ,Toli-Toli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+501,Sulawesi Selatan ,Toraja Utara,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+502,Jawa Timur ,Trenggalek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+503,Jawa Timur ,Tuban,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+504,Lampung,Tulang Bawang Barat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+505,Lampung,Tulangbawang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+506,Jawa Timur ,Tulungagung,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+507,Sulawesi Selatan ,Wajo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+508,Sulawesi Tenggara,Wakatobi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+509,Papua,Waropen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+510,Lampung,Way Kanan,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+511,Jawa Tengah,Wonogiri,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+512,Jawa Tengah,Wonosobo,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+513,Papua,Yahukimo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+514,Papua,Yalimo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
