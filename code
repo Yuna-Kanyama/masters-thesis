@@ -1,0 +1,36 @@
+**Discriptive statistics
+summarize
+
+**Discriptive statistics in groups
+  
+gen group = .
+replace group = 1 if gi_status == 1
+replace group = 2 if gi_status == 0 & gi_year < .
+replace group = 3 if gi_status == 0 & missing(gi_year)
+label define group_lbl 1 "Treated" 2 "Not-yet Treated" 3 "Never Treated"
+label values group group_lbl
+
+tabstat hdi, by(group) stats(mean sd min max n)
+
+**OLS regression
+xtset id year
+reg hdi gi_status base_hdi popd urban_percent mcrop_percent rcrop_percent icrop_percent sv_percent tmp prec elev
+
+**staggered DiD in different control groups
+xthdidregress aipw (hdi) (gi_status base_hdi popd tmp prec elev urban_percent mcrop_percent rcrop_percent icrop_percent sv_percent), ///
+    group(id) controlgroup(never) vce(cluster id)
+
+estat aggregation, overall
+	
+xthdidregress aipw (hdi) (gi_status base_hdi popd tmp prec elev urban_percent mcrop_percent rcrop_percent icrop_percent sv_percent), ///
+    group(id) controlgroup(notyet) vce(cluster id)
+	
+estat aggregation, overall
+
+**staggered DiD visualization
+
+estat atetplot, sci name(fig1, replace)
+estat aggregation, dynamic graph(name(fig2, replace))
+estat aggregation, cohort graph(name(fig3, replace))
+estat aggregation, time graph(name(fig4, replace))
+estat aggregation, overall
