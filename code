@@ -16,6 +16,28 @@ tabstat hdi, by(group) stats(mean sd min max n)
 xtset id year
 reg hdi gi_status base_hdi popd urban_percent mcrop_percent rcrop_percent icrop_percent sv_percent tmp prec elev
 
+**TWFE regression
+*basic TWFE regression model
+reghdfe hdi gi_status, absorb(id year) cluster(id)
+*development controls
+reghdfe hdi gi_status base_hdi popd urban_percent, absorb(id year) cluster(id)
+*land use controls
+reghdfe hdi gi_status mcrop_percent rcrop_percent icrop_percent svegcrop_percent, absorb(id year) cluster(id)
+*coffee measures controls
+reghdfe hdi gi_status elev tmp prec, absorb(id year) cluster(id)
+*all controls
+reghdfe hdi gi_status  base_hdi popd urban_percent mcrop_percent rcrop_percent icrop_percent svegcrop_percent elev tmp prec, absorb(id year) cluster(id)
+
+**t-test to check for parallel trend assumption
+preserve
+
+reshape wide hdi gi_status popd tmp prec elev gi_year base_hdi mcrop_percent rcrop_percent icrop_percent sv_percent urban_percent _did_cohort group, i(id) j(year)
+*pre period is 2010-2011
+gen hdi_change_pre = hdi2011 - hdi2010
+ttest hdi_change_pre, by(group2022)
+
+restore
+
 **staggered DiD in different control groups
 xthdidregress aipw (hdi) (gi_status base_hdi popd tmp prec elev urban_percent mcrop_percent rcrop_percent icrop_percent sv_percent), ///
     group(id) controlgroup(never) vce(cluster id)
