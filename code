@@ -38,6 +38,12 @@ ttest hdi_change_pre, by(group2022)
 
 restore
 
+**TWFE staggered DiD**
+
+estat aggregation, overall
+
+estat aggregation, overall
+
 **staggered DiD in different control groups
 xthdidregress aipw (hdi) (gi_status base_hdi popd tmp prec elev urban_percent mcrop_percent rcrop_percent icrop_percent sv_percent), ///
     group(id) controlgroup(never) vce(cluster id)
