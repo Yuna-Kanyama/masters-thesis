@@ -44,10 +44,6 @@ xthdidregress twfe (hdi) (gi_status) (popd tmp prec urban_percent mcrop_percent 
 
 estat aggregation, overall
 
-xthdidregress twfe (hdi) (gi_status) (popd tmp prec urban_percent mcrop_percent rcrop_percent icrop_percent sv_percent), group(id) controlgroup(notyet) vce(cluster id)
-	
-estat aggregation, overall
-
 **staggered DiD in different control groups
 xthdidregress aipw (hdi) (gi_status base_hdi popd tmp prec elev urban_percent mcrop_percent rcrop_percent icrop_percent sv_percent), ///
     group(id) controlgroup(never) vce(cluster id)
